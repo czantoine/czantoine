@@ -1,5 +1,6 @@
 # Glad to see you here! 👋
 
+[![wakatime](https://wakatime.com/badge/user/544a782f-36e1-47cb-b795-08a1884bb629.svg)](https://wakatime.com/@544a782f-36e1-47cb-b795-08a1884bb629)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Classic_Mac_OS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
